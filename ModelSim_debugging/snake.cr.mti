@@ -1,0 +1,30 @@
+D:/GitHub/FPGA_snake/ModelSim_debugging/test.vhd {1 {vcom -work work -2002 -explicit -vopt D:/GitHub/FPGA_snake/ModelSim_debugging/test.vhd
+Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package main_package
+-- Compiling entity test
+-- Compiling architecture arch of test
+-- Loading entity vga_sync
+-- Loading entity snake_graph
+
+} {} {}} D:/GitHub/FPGA_snake/ModelSim_debugging/main_package.vhd {1 {vcom -work work -2002 -explicit -vopt D:/GitHub/FPGA_snake/ModelSim_debugging/main_package.vhd
+Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling package main_package
+-- Compiling package body main_package
+-- Loading package main_package
+
+} {} {}} D:/GitHub/FPGA_snake/ModelSim_debugging/vga_sync.vhd {1 {vcom -work work -2002 -explicit -vopt D:/GitHub/FPGA_snake/ModelSim_debugging/vga_sync.vhd
+Model Technology ModelSim SE vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package main_package
+-- Compiling entity vga_sync
+-- Compiling architecture arch of vga_sync
+
+} {} {}}
